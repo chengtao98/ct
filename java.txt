@@ -1,0 +1,25 @@
+Java基础知识:
+基础语法、编程逻辑、面向对象、集合存储、io读写、多线程和并发、异常捕获和处理、网络编程
+数据库知识:
+MySQL.Oracle.Redis. MongoDB JDBC、连接池(C3P0、Druid)
+热门框架: .
+Spring.SpringMVC.MyBatis.springData. JPA.MyBatis-Plus.Hibernate
+前端的有:
+HTMLCSS.JavaScript.vue.angular. React. ElementUI、webpack. JQuery
+Javaweb动态技术:
+Senvlet. Request. Response.Cookie. Session.JSP、EL、JSTLFilter、Listener
+编程加强(加薪):
+设计模式、JVM优化、数据结构、多线程高级、线程内存、线程通讯、NIO、Netty. MINA
+项目管理:
+Git、SVN、码云、Maven.Jenkins. sonar
+分布式相关:
+SpringBoot、 SpringCloud、Dubbo. Zookeeper. Skywalking. Pinpoint
+中间件:
+RabbitMQ、 RocketMQ.Kafka. JMS.MyCat. Sharding JDBC、Redis. Neo4j
+容器相关:
+Kubernetes(又k8s)、Docker
+服务器相关:
+CentOS.Linux、Ubuntu、小红帽、Nginx. Tomcat. Jetty.虚拟机(mware、Virtualbox)
+常用解决问题的技术:
+Kibana、Beats、Elasticsearch. Solr. Lucene、Activiti. LogstashJCL、LOG4J SLF4J、LOGBack、Quartz、Elastic-. Job. D3、POI、JaperReport.
+ECharts.Thymelef
